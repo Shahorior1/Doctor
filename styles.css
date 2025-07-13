@@ -805,7 +805,6 @@ a:focus {
 
 /* Image Loading Optimization */
 img {
-    loading: lazy;
     transition: opacity 0.3s ease;
 }
 
